@@ -1,1 +1,0 @@
-console.log("Hii Hello Am js i make static websites interractive")
