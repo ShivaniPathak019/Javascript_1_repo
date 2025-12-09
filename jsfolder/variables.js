@@ -4,3 +4,4 @@ var mark=10
 console.log(name);
 console.log(mark);
 
+
